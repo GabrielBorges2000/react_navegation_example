@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "111b3898-f7d2-461a-84fe-ecc1153acd67"
+      }
+    },
+    "owner": "machadoazul2000",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/111b3898-f7d2-461a-84fe-ecc1153acd67"
     }
   }
 }
