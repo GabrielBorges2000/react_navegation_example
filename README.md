@@ -1,9 +1,7 @@
-# React-Navigation Example Project
+# React-Navigation
 
 
 Este Projeto irá mostrar meus estudos iniciais com React Navegation. Existem outras maneiras de utilizar a navegação mas eu optei em utilizar navegação em TABLE para colocar no meu portfólio.
-
----
 
 ## 💻 Pré-requisitos
 
@@ -14,8 +12,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Versão mais recente do `expo go`.
 * Ter um dispositivo dispositivo `Android` ou `IOS`. 
 * Você leu a documentação do projeto.
-
----
 
 ## 🚀 Inicializando o Projeto
 
@@ -29,7 +25,6 @@ npm install
 ```
 npm start
 ```
----
 
 ## ☕ Usando o APP
 
@@ -45,6 +40,8 @@ Para usar o app, siga estas etapas:
 exp://u.expo.dev/update/4bd72e13-b10b-4277-8a7f-47b5225135eb
 ```
 
+---
+
 ##### Android
 
 <img src="./assets/android_qr.png" alt="exemplo imagem">
@@ -52,7 +49,6 @@ exp://u.expo.dev/update/4bd72e13-b10b-4277-8a7f-47b5225135eb
 ```
 exp://u.expo.dev/update/24325450-1fb5-42c4-8a8c-c1d7222d5745
 ```
----
 
 ## 🤝 Colaboradores
 
@@ -74,6 +70,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 😄 Obrigado pela Atenção!<br>
 
-Gostou desse projeto? Deixe um Like!
-
-[⬆ Voltar ao topo](#React-Navigation-Example-Project)<br>
+Gostou desse projeto? Deixe um Like!<br>
